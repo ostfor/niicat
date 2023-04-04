@@ -11,7 +11,7 @@ setup(name='niicat',
       url='https://github.com/MIC-DKFZ/niicat/',
       author='Jakob Wasserthal',
       author_email='j.wasserthal@dkfz.de',
-      python_requires='>=2.7,<=3.8',
+      python_requires='>=2.7,<3.9',
       license='GPL v2',
       packages=find_packages(),
       install_requires=[
